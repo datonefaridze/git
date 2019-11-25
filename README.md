@@ -1,1 +1,1 @@
-# git
+# git tutorials are hell :D

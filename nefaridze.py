@@ -1,2 +1,0 @@
-print("DATO")
-print("NEF")

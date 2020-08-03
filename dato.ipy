@@ -1,0 +1,5 @@
+# coding: utf-8
+print("DATO")
+%save -r 77-19999
+%save -r dato 77-100000
+dato nefaridze nefairdze

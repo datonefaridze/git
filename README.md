@@ -1,2 +1,2 @@
 # git
-just for practicing in git, nothing funny 
+just for practicing in git, nothing funny :D 

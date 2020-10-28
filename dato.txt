@@ -1,1 +1,4 @@
-this is just fan
+ unchanged context
+-changed line
++replacement 2
+ more unchanged context

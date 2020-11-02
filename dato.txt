@@ -1,4 +1,4 @@
  unchanged context
 -changed line
-this is first line
+nothing special
  more unchanged context

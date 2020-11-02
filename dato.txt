@@ -1,4 +1,4 @@
  unchanged context
 -changed line
-dato nefaridze
+this is first line
  more unchanged context
